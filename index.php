@@ -38,7 +38,7 @@ if(isset($_SESSION['username'])) {
         </div>
     </div>
     <ul>
-        <li><a href="#" class="active"><i class="fas fa-chart-line"></i> Dashboard</a></li>
+        <li><a href="index.php" class="active"><i class="fas fa-chart-line"></i> Dashboard</a></li>
         <li><a href="#"><i class="fas fa-trash"></i> Data Sampah</a></li>
         <li><a href="#"><i class="fas fa-users"></i> Data Nasabah</a></li>
         <li><a href="#"><i class="fas fa-money-check-alt"></i> Transaksi</a></li>
